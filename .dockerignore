@@ -1,0 +1,9 @@
+# Application files
+node_modules
+.git
+
+# Documentation files
+*.md
+
+# docker files
+docker-compose.yml
